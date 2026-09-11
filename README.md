@@ -39,7 +39,8 @@ The datasets can be primarily linked through customer_id allowing for analysis o
 ## Key Findings
 ### 1) Age groups 20-29,30-39,40-49 are most frequent and high value spenders. However they aren't being marketed to as aggressively. 
 <img width="851" height="665" alt="image" src="https://github.com/user-attachments/assets/5b86f7ac-6941-4c5a-bc31-3d713ac3688f" />
-<img width="914" height="587" alt="image" src="https://github.com/user-attachments/assets/f90a0845-b046-4783-858f-e16e5e7e98ff" />
+<img width="920" height="460" alt="image" src="https://github.com/user-attachments/assets/7cb916c9-2a28-4187-b067-c3424334d970" />
+
 
 We find that the 3 customers segments : Adults, High-value Customers and Loyal customers have fewer marketing campaigns. The campaign types do not match their preferred channels. Online and instore marketing campaign types rank the lowest for each customer segment.
 
