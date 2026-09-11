@@ -37,30 +37,34 @@ The datasets can be primarily linked through customer_id allowing for analysis o
 <img src="https://github.com/user-attachments/assets/e663c491-a31d-4cf6-9c54-eeac1c4a0334" width="50%" alt="image" />
 
 ## Key Findings
-1) Age groups 20-29,30-39,40-49 are most frequent and high value spenders. However they aren't being marketed to as aggressively. 
+### 1) Age groups 20-29,30-39,40-49 are most frequent and high value spenders. However they aren't being marketed to as aggressively. 
 <img width="851" height="665" alt="image" src="https://github.com/user-attachments/assets/5b86f7ac-6941-4c5a-bc31-3d713ac3688f" />
 <img width="914" height="587" alt="image" src="https://github.com/user-attachments/assets/f90a0845-b046-4783-858f-e16e5e7e98ff" />
 
 We find that the 3 customers segments : Adults, High-value Customers and Loyal customers have fewer marketing campaigns. The campaign types do not match their preferred channels. Online and instore marketing campaign types rank the lowest for each customer segment.
 
-2)<u> One-time customers are significantly (57%) less likely to complete their purchase interactions.</u>
+### 2)<u> One-time customers are significantly (57%) less likely to complete their purchase interactions.</u>
 <img width="914" height="258" alt="image" src="https://github.com/user-attachments/assets/c13ebdfe-205d-464a-9835-d5d23069fda3" />
 <img width="921" height="638" alt="image" src="https://github.com/user-attachments/assets/b2fbb8b9-8dae-4b0d-8989-838ca6269fc3" />
 
 One-time customers are more likely to abandon the final stage of purchasing which is keying in the card information. We found out that purchase interactions don't mean completed transactions as they had more purchase interactions than repeat customers and therefore purchase interactions refer to pressing of the purchase button.
 
-3) One-time customers have much higher, high intent interactions specifically checkouts that increase with time after their first transaction.
+### 3) One-time customers have much higher, high intent interactions specifically checkouts that increase with time after their first transaction.
 This are days after their first transaction.
 <img width="915" height="162" alt="image" src="https://github.com/user-attachments/assets/ce8d3902-0b1d-40bb-b9b8-e767e26a7340" />
 The biggest difference is in checkout interactions where they had 1.5x more interactions.
 <img width="926" height="267" alt="image" src="https://github.com/user-attachments/assets/2549074b-5369-441f-ba12-9fe5b31f647e" />
 
-4) One time customers' biggest issue is billing and when compared to repeat customers they have proportionately more.
+### 4) One time customers' biggest issue is billing and when compared to repeat customers they have proportionately more.
 <img width="923" height="731" alt="image" src="https://github.com/user-attachments/assets/f1aa4a83-3d48-4cbf-ade1-4cd927f7850a" />
 
 ## Recommended Actions
+For the first finding: Age groups 20-29,30-39,40-49 are most frequent and high value spenders. However they aren't being marketed to as aggressively. 
 
+The recommendation is to focus on marketing campaigns types that are online and in store as this is the preferred channel of those customers. Campaigns such as Online Display Ads and 
 ## Process Mapping
+
+## KPIs to track to see if recommended actions prove successful. 
 
 
 
