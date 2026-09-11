@@ -1,7 +1,7 @@
 # Retail Data Case Study
 This is a full Data Analytics case study using a Retail Company's data where we go from cleaning the data, to finding insights and suggesting recommended actions to boost their revenue through targeted marketing campaigns towards their high value and one-time customers.
 
-For the full code, refer to retail-data-case-study.i
+For the full code, refer to retail-data-case-study.ipynb
 
 ## Business Task
 Analyse customer behaviours and purchasing patterns to find out what affects customer retention and find opportunities to increase repeat purchases. Recommend solutions to promote repeat purchasing and increase revenue from current customers.
@@ -25,21 +25,22 @@ Python for Data Cleaning, Data Transformation and Data Analysis.
 Tableau for Data Visualisation.
 
 ## Dataset
-
 The dataset is publicly available on [Kaggle](https://www.kaggle.com/datasets/raghavendragandhi/retail-customer-and-transaction-dataset/data).
 
-## ER Diagram for Datasets used
+## Brief Data Overview
+This project uses fictional and sample data from various sources within a retail business environment. The dataset combines more than 30,000 purchase transactions, customer demographics, marketing campaigns and support tickets.
+
+The datasets can be primarily linked through customer_id allowing for analysis of customer purchasing patterns, customer engagement and support experiences.
+
+## ER Diagram for Datasets used - Lucid Chart
 
 <img src="https://github.com/user-attachments/assets/e663c491-a31d-4cf6-9c54-eeac1c4a0334" width="50%" alt="image" />
 
-## Findings from Data
-
+## Key Findings
 
 ## Recommended Actions
 
-
-
-# Process Mapping
+## Process Mapping
 
 
 
