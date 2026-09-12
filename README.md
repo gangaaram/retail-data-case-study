@@ -56,9 +56,6 @@ This are days after their first transaction.
 The biggest difference is in checkout interactions where they had 1.5x more interactions.
 <img width="926" height="267" alt="image" src="https://github.com/user-attachments/assets/2549074b-5369-441f-ba12-9fe5b31f647e" />
 
-### 4) One time customers' biggest issue is billing and when compared to repeat customers they have proportionately more.
-<img width="923" height="731" alt="image" src="https://github.com/user-attachments/assets/f1aa4a83-3d48-4cbf-ade1-4cd927f7850a" />
-
 ## Recommended Actions
 ### For the first finding: Age groups 20-29,30-39,40-49 are most frequent and high value spenders. However they aren't being marketed to as aggressively. 
 
@@ -82,7 +79,7 @@ For the 'Loyal Customers' customer segment, "Online" campaign types work the bes
 
 <img width="1842" height="466" alt="AdobeExpressPhotos_f1df897298d548fca5b47b952f5bb759_CopyEdited" src="https://github.com/user-attachments/assets/de316861-d28c-4399-b6bf-74585a9465b7" />
 
-### For the remaining findings, we do process analysis to visualise the customer drop offs during the customer journey.
+### For the remaining findings, we first do process analysis to visualise the customer drop offs during the customer journey.
 
 ## Process Mapping - Customer Journey
 
@@ -90,7 +87,24 @@ The mapping below illustrates the customer journey from start to purchase.
 
 <img src="https://github.com/user-attachments/assets/59ab739b-26cb-4a9c-bba3-5a694ca3297c" width="50%" alt="image"/>
 
+From our analysis we found that customer drop offs for one time customers happens after the purchase. This is the page where customers key in payment details and hit confirm to save their details (refer below.)
 
+<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/4dc125d0-fdbc-4878-bc3c-e81a7723e775" />
+
+
+
+Furthermore one time customers' biggest issue is billing and when compared to repeat customers they have proportionately more. This further solidifies the need to address the final payment section of the customer journey for one time customers.
+
+
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/f1aa4a83-3d48-4cbf-ade1-4cd927f7850a" />
+
+## Recommended Actions (cont'd)
+
+### For the second finding: One-time customers are significantly (57%) less likely to complete their purchase interactions.
+
+The recommended action is to 
+
+### For the third finding: One-time customers have much higher, high intent interactions specifically checkouts that increase with time after their first transaction.
 
 ## KPIs to track to see if recommended actions prove successful. 
 
