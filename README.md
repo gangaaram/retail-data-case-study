@@ -44,7 +44,7 @@ The datasets can be primarily linked through customer_id allowing for analysis o
 
 We find that the 3 customers segments : Adults, High-value Customers and Loyal customers have fewer marketing campaigns and are not being targeted aggressively although they bring in majority of sales revenue. 
 
-### 2)<u> One-time customers are significantly (57%) less likely to complete their purchase interactions.</u>
+### 2) One-time customers are significantly (57%) less likely to complete their purchase interactions.
 <img width="914" height="258" alt="image" src="https://github.com/user-attachments/assets/c13ebdfe-205d-464a-9835-d5d23069fda3" />
 <img width="921" height="638" alt="image" src="https://github.com/user-attachments/assets/b2fbb8b9-8dae-4b0d-8989-838ca6269fc3" />
 
@@ -82,7 +82,15 @@ For the 'Loyal Customers' customer segment, "Online" campaign types work the bes
 
 <img width="1842" height="466" alt="AdobeExpressPhotos_f1df897298d548fca5b47b952f5bb759_CopyEdited" src="https://github.com/user-attachments/assets/de316861-d28c-4399-b6bf-74585a9465b7" />
 
-## Process Mapping
+### For the remaining findings, we do process analysis to visualise the customer drop offs during the customer journey.
+
+## Process Mapping - Customer Journey
+
+The mapping below illustrates the customer journey from start to purchase.
+
+<img src="https://github.com/user-attachments/assets/59ab739b-26cb-4a9c-bba3-5a694ca3297c" width="50%" alt="image"/>
+
+
 
 ## KPIs to track to see if recommended actions prove successful. 
 
