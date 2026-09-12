@@ -42,7 +42,7 @@ The datasets can be primarily linked through customer_id allowing for analysis o
 <img width="920" height="460" alt="image" src="https://github.com/user-attachments/assets/7cb916c9-2a28-4187-b067-c3424334d970" />
 
 
-We find that the 3 customers segments : Adults, High-value Customers and Loyal customers have fewer marketing campaigns. The campaign types do not match their preferred channels. Online and instore marketing campaign types rank the lowest for each customer segment.
+We find that the 3 customers segments : Adults, High-value Customers and Loyal customers have fewer marketing campaigns and are not being targeted aggressively although they bring in majority of sales revenue. 
 
 ### 2)<u> One-time customers are significantly (57%) less likely to complete their purchase interactions.</u>
 <img width="914" height="258" alt="image" src="https://github.com/user-attachments/assets/c13ebdfe-205d-464a-9835-d5d23069fda3" />
@@ -60,9 +60,18 @@ The biggest difference is in checkout interactions where they had 1.5x more inte
 <img width="923" height="731" alt="image" src="https://github.com/user-attachments/assets/f1aa4a83-3d48-4cbf-ade1-4cd927f7850a" />
 
 ## Recommended Actions
-For the first finding: Age groups 20-29,30-39,40-49 are most frequent and high value spenders. However they aren't being marketed to as aggressively. 
+### For the first finding: Age groups 20-29,30-39,40-49 are most frequent and high value spenders. However they aren't being marketed to as aggressively. 
 
-The recommendation is to focus on marketing campaigns types that are online and in store as this is the preferred channel of those customers. Campaigns such as Online Display Ads and 
+The recommendation is to increase the number of campaigns for these customer segments focus on marketing campaigns types that have higher ROIs, lower cost per conversions and average conversions per 1000 dollars spent. We analysed the campaigns ran for each customer segment and split them into either online, store or other campaign types with the code below.  
+
+<img width="955" height="682" alt="AdobeExpressPhotos_7b62e8aa11a643ba9499ead597b8346d_CopyEdited" src="https://github.com/user-attachments/assets/87aec91b-dd6b-45b2-823b-2731162ec85a" />
+
+We then find out which campaign types have performed the best. Refer below. 
+
+<img width="1065" height="477" alt="image" src="https://github.com/user-attachments/assets/ea42cb8f-b64a-4725-bb73-fede619f54d4" />
+
+After repeating the process for all 3 customer segments we find that for the Adults (26-40) customer segment, "Other" campaign types work the best. Specifically, they should focus on 
+
 ## Process Mapping
 
 ## KPIs to track to see if recommended actions prove successful. 
