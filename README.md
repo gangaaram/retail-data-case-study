@@ -70,7 +70,17 @@ We then find out which campaign types have performed the best. Refer below.
 
 <img width="1065" height="477" alt="image" src="https://github.com/user-attachments/assets/ea42cb8f-b64a-4725-bb73-fede619f54d4" />
 
-After repeating the process for all 3 customer segments we find that for the Adults (26-40) customer segment, "Other" campaign types work the best. Specifically, they should focus on 
+After repeating the process for all 3 customer segments we find that for the 'Adults (26-40)' customer segment, "Other" campaign types work the best. Specifically, they should focus on Print and Radio Advertisement. 
+
+<img width="1839" height="404" alt="AdobeExpressPhotos_72757fc574af46179b80bd571feaef0e_CopyEdited" src="https://github.com/user-attachments/assets/74e23b50-bed8-41d1-9ee6-af7335b8e65e" />
+
+For the 'High-Value Customers' customer segment, "Online" campaign types work the best. Specifically, they should focus on Online Display Ads and Social Media.
+
+<img width="1848" height="545" alt="AdobeExpressPhotos_d034618b4d3a420490bf4c90036bb5db_CopyEdited" src="https://github.com/user-attachments/assets/9cb7354e-b114-4be6-81c3-e4217f3c1f18" />
+
+For the 'Loyal Customers' customer segment, "Online" campaign types work the best. Specifically, they should focus on Social Media and Online Display Ads.
+
+<img width="1842" height="466" alt="AdobeExpressPhotos_f1df897298d548fca5b47b952f5bb759_CopyEdited" src="https://github.com/user-attachments/assets/de316861-d28c-4399-b6bf-74585a9465b7" />
 
 ## Process Mapping
 
