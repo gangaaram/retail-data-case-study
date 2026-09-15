@@ -1,7 +1,7 @@
 # Retail Data Case Study
 This is a full Data Analytics case study using a Retail Company's data where we go from cleaning the data, to finding insights and suggesting recommended actions to boost their revenue through targeted marketing campaigns towards their high value and one-time customers.
 
-For the full code, refer to retail-data-case-study.ipynb
+For the full code, refer to retail-data-case-study saved.ipynb
 
 ## Business Task
 Analyse customer behaviours and purchasing patterns to find out what affects customer retention and find opportunities to increase repeat purchases. Recommend solutions to promote repeat purchasing and increase revenue from current customers.
@@ -32,7 +32,7 @@ This project uses fictional and sample data from various sources within a retail
 
 The datasets can be primarily linked through customer_id allowing for analysis of customer purchasing patterns, customer engagement and support experiences.
 
-## ER Diagram for Datasets used - Lucid Chart
+## ER Diagram for datasets used - Lucid Chart
 
 <img src="https://github.com/user-attachments/assets/e663c491-a31d-4cf6-9c54-eeac1c4a0334" width="50%" alt="image" />
 
@@ -42,24 +42,25 @@ The datasets can be primarily linked through customer_id allowing for analysis o
 <img width="920" height="460" alt="image" src="https://github.com/user-attachments/assets/7cb916c9-2a28-4187-b067-c3424334d970" />
 
 
-We find that the 3 customers segments : Adults, High-value Customers and Loyal customers have fewer marketing campaigns and are not being targeted aggressively although they bring in majority of sales revenue. 
+We find that the 3 customers segments : Adults, High-value Customers and Loyal customers which fit the ages 20 to 49, have fewer marketing campaigns and are not being targeted aggressively although they bring in majority of sales revenue. 
 
 ### 2) One-time customers are significantly (57%) less likely to complete their purchase interactions.
 <img width="914" height="258" alt="image" src="https://github.com/user-attachments/assets/c13ebdfe-205d-464a-9835-d5d23069fda3" />
 <img width="921" height="638" alt="image" src="https://github.com/user-attachments/assets/b2fbb8b9-8dae-4b0d-8989-838ca6269fc3" />
 
-One-time customers are more likely to abandon the final stage of purchasing which is keying in the card information. We found out that purchase interactions don't mean completed transactions as they had more purchase interactions than repeat customers and therefore purchase interactions refer to pressing of the purchase button.
+One-time customers are more likely to abandon the final stage of purchasing which is filling in payment details. How we concluded that its the payment details stage being abandoned, was by finding out that purchase interactions don't mean completed transactions as one-time customers had more purchase interactions than repeat customers which is not possible. Therefore purchase interactions refer to pressing of the purchase button and not completed transactions.
 
 ### 3) One-time customers have much higher, high intent interactions specifically checkouts that increase with time after their first transaction.
 This are days after their first transaction.
 <img width="915" height="162" alt="image" src="https://github.com/user-attachments/assets/ce8d3902-0b1d-40bb-b9b8-e767e26a7340" />
+
 The biggest difference is in checkout interactions where they had 1.5x more interactions.
 <img width="926" height="267" alt="image" src="https://github.com/user-attachments/assets/2549074b-5369-441f-ba12-9fe5b31f647e" />
 
 ## Recommended Actions
 ### For the first finding: Age groups 20-29,30-39,40-49 are most frequent and high value spenders. However they aren't being marketed to as aggressively. 
 
-The recommendation is to increase the number of campaigns for these customer segments focus on marketing campaigns types that have higher ROIs, lower cost per conversions and average conversions per 1000 dollars spent. We analysed the campaigns ran for each customer segment and split them into either online, store or other campaign types with the code below.  
+The recommendation is to increase the number of campaigns for these customer segments, spefically campaign types that have higher ROIs, lower cost per conversions and average conversions per 1000 dollars spent. We analysed the campaigns ran for each customer segment and split them into either online, store or other campaign types with the code below.  
 
 <img width="955" height="682" alt="AdobeExpressPhotos_7b62e8aa11a643ba9499ead597b8346d_CopyEdited" src="https://github.com/user-attachments/assets/87aec91b-dd6b-45b2-823b-2731162ec85a" />
 
