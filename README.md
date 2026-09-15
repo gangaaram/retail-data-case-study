@@ -42,13 +42,13 @@ The datasets can be primarily linked through customer_id allowing for analysis o
 <img width="920" height="460" alt="image" src="https://github.com/user-attachments/assets/7cb916c9-2a28-4187-b067-c3424334d970" />
 
 
-We find that the 3 customers segments : Adults, High-value Customers and Loyal customers which fit the ages 20 to 49, have fewer marketing campaigns and are not being targeted aggressively although they bring in majority of sales revenue. 
+We find that the 3 customers segments : Adults, High-value Customers and Loyal customers which fit the ages 20 to 49, have fewer marketing campaigns and are not being targeted aggressively enough although they bring in majority of sales revenue. 
 
 ### 2) One-time customers are significantly (57%) less likely to complete their purchase interactions.
 <img width="914" height="258" alt="image" src="https://github.com/user-attachments/assets/c13ebdfe-205d-464a-9835-d5d23069fda3" />
 <img width="921" height="638" alt="image" src="https://github.com/user-attachments/assets/b2fbb8b9-8dae-4b0d-8989-838ca6269fc3" />
 
-One-time customers are more likely to abandon the final stage of purchasing which is filling in payment details. How we concluded that its the payment details stage being abandoned, was by finding out that purchase interactions don't mean completed transactions as one-time customers had more purchase interactions than repeat customers which is not possible. Therefore purchase interactions refer to pressing of the purchase button and not completed transactions.
+One-time customers are more likely to abandon the final stage of purchasing which is filling in payment details. We identified the payment stage as the drop-off point after discovering that purchase interactions exceeded completed transactions. Specifically, one-time customers logged more purchase interactions than repeat customers which is a pattern that is only possible if users are abandoning the process of filling in payment details. Therefore purchase interactions refer to pressing of the purchase button and not completed transactions.
 
 ### 3) One-time customers have much higher, high intent interactions specifically checkouts that increase with time after their first transaction.
 This are days after their first transaction.
@@ -60,25 +60,26 @@ The biggest difference is in checkout interactions where they had 1.5x more inte
 ## Recommended Actions
 ### For the first finding: Age groups 20-29,30-39,40-49 are most frequent and high value spenders. However they aren't being marketed to as aggressively. 
 
-The recommendation is to increase the number of campaigns for these customer segments, spefically campaign types that have higher ROIs, lower cost per conversions and average conversions per 1000 dollars spent. We analysed the campaigns ran for each customer segment and split them into either online, store or other campaign types with the code below.  
+The recommendation is to increase the number of campaigns for these customer segments, specifically campaign types that have higher ROIs, lower cost per conversions and average conversions per 1000 dollars spent. We analysed the campaigns ran for each customer segment and split them into either online, store or other campaign types with the code below.  
 
-<img width="955" height="682" alt="AdobeExpressPhotos_7b62e8aa11a643ba9499ead597b8346d_CopyEdited" src="https://github.com/user-attachments/assets/87aec91b-dd6b-45b2-823b-2731162ec85a" />
+<img width="1092" height="606" alt="image" src="https://github.com/user-attachments/assets/715644ef-8f82-465a-b166-4c6e5a0a4315" />
 
 We then find out which campaign types have performed the best. Refer below. 
 
-<img width="1065" height="477" alt="image" src="https://github.com/user-attachments/assets/ea42cb8f-b64a-4725-bb73-fede619f54d4" />
+
+<img width="1097" height="576" alt="image" src="https://github.com/user-attachments/assets/88da2871-de7d-4ac6-8783-5e7aeed4117d" />
+
 
 After repeating the process for all 3 customer segments we find that for the 'Adults (26-40)' customer segment, "Other" campaign types work the best. Specifically, they should focus on Print and Radio Advertisement. 
 
-<img width="1839" height="404" alt="AdobeExpressPhotos_72757fc574af46179b80bd571feaef0e_CopyEdited" src="https://github.com/user-attachments/assets/74e23b50-bed8-41d1-9ee6-af7335b8e65e" />
-
 For the 'High-Value Customers' customer segment, "Online" campaign types work the best. Specifically, they should focus on Online Display Ads and Social Media.
 
-<img width="1848" height="545" alt="AdobeExpressPhotos_d034618b4d3a420490bf4c90036bb5db_CopyEdited" src="https://github.com/user-attachments/assets/9cb7354e-b114-4be6-81c3-e4217f3c1f18" />
+<img width="1091" height="574" alt="image" src="https://github.com/user-attachments/assets/4dc8548c-d20a-4c65-aee3-e665aed26cf9" />
 
 For the 'Loyal Customers' customer segment, "Online" campaign types work the best. Specifically, they should focus on Social Media and Online Display Ads.
 
-<img width="1842" height="466" alt="AdobeExpressPhotos_f1df897298d548fca5b47b952f5bb759_CopyEdited" src="https://github.com/user-attachments/assets/de316861-d28c-4399-b6bf-74585a9465b7" />
+<img width="1093" height="492" alt="image" src="https://github.com/user-attachments/assets/67eb26f5-b9c6-4476-ad4b-21bc8d4bb6ad" />
+
 
 ### For the remaining findings, we first do process analysis to visualise the customer drop offs during the customer journey.
 
@@ -108,10 +109,13 @@ The recommended action is to run a Checkout Abandonment Campaign that would targ
 Refer below for the campaign workflow:
 
 <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/47d1b79a-944d-4d2b-a0be-2babbe4d2b88" />
+<p></p>
 
 The initial reminder can be a personalised email to remind the customer about the checkout that they have started. It should contain a direct link to the checkout rather than to the website home page.
 
 If the customer does not return, a second reminder should be sent after 24-48 hours and it could introduce a small incentive such as: Free shipping, Discount Code, Loyalty points etc. If there is still no purchase, the campaign should be exited and the data should be monitored through KPIs that will be introduced below.
+
+# Add in solution for billing
 
 ### For the third finding: One-time customers have much higher, high intent interactions (specifically checkouts) that increase with time after their first transaction.
 
