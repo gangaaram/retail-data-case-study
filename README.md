@@ -85,13 +85,11 @@ For the 'Loyal Customers' customer segment, "Online" campaign types work the bes
 
 The mapping below illustrates the customer journey from start to purchase.
 
-<img src="https://github.com/user-attachments/assets/59ab739b-26cb-4a9c-bba3-5a694ca3297c" width="50%" alt="image"/>
+<img src="https://github.com/user-attachments/assets/59ab739b-26cb-4a9c-bba3-5a694ca3297c" width="30%" alt="image"/>
 
 From our analysis we found that customer drop offs for one time customers happens after the purchase. This is the page where customers key in payment details and hit confirm to save their details (refer below.)
 
-<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/4dc125d0-fdbc-4878-bc3c-e81a7723e775" />
-
-
+<img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/4dc125d0-fdbc-4878-bc3c-e81a7723e775" />
 
 Furthermore one time customers' biggest issue is billing and when compared to repeat customers they have proportionately more. This further solidifies the need to address the final payment section of the customer journey for one time customers.
 
@@ -102,12 +100,29 @@ Furthermore one time customers' biggest issue is billing and when compared to re
 
 ### For the second finding: One-time customers are significantly (57%) less likely to complete their purchase interactions.
 
-The recommended action is to 
+Firstly, a new interaction_type called 'completed_transactions' should be created to accurately track completed purchases as the current 'purchases' interaction_type only measures the number of clicks on the purchase button and not completed transactions. 
 
-### For the third finding: One-time customers have much higher, high intent interactions specifically checkouts that increase with time after their first transaction.
+The recommended action is to run a Checkout Abandonment Campaign that would target one-time customers who initiate checkout but do not proceed to a completed purchase interaction. The campaign would focus on recovering immediate purchase opportunities. 
+
+Refer below for the campaign workflow:
+
+<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/47d1b79a-944d-4d2b-a0be-2babbe4d2b88" />
+
+The initial reminder can be a personalised email to remind the customer about the checkout that they have started. It should contain a direct link to the checkout rather than to the website home page.
+
+If the customer does not return, a second reminder should be sent after 24-48 hours and it could introduce a small incentive such as: Free shipping, Discount Code, Loyalty points etc. If there is still no purchase, the campaign should be exited and the data should be monitored through KPIs that will be introduced below.
+
+### For the third finding: One-time customers have much higher, high intent interactions (specifically checkouts) that increase with time after their first transaction.
+
+The recommended action is to run a personalised re-engagement campaign. This are customers who although only have one purchase, still show high-intent interactions. Instead of waiting for the customer to abandon checkout, the business should proactively engage them. 
+
+This campaign could work by observing the types of products that they are viewing after their first completed purchase. Personalised product recommendations can then be shown through pop-ups or sent via email. Additionally if items are added into the checkout and abandoned, this campaign will continue to the Checkout Abandonment Campaign.
 
 ## KPIs to track to see if recommended actions prove successful. 
 
+This section outlines the KPIs to be tracked for each solution 
+
+## Conclusion
 
 
 
