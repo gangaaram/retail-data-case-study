@@ -81,7 +81,7 @@ For the 'Loyal Customers' customer segment, "Online" campaign types work the bes
 <img width="1093" height="492" alt="image" src="https://github.com/user-attachments/assets/67eb26f5-b9c6-4476-ad4b-21bc8d4bb6ad" />
 
 
-### For the remaining findings, we first do process analysis to visualise the customer drop offs during the customer journey.
+### For the remaining findings, we first do process mapping to visualise the customer journey.
 
 ## Process Mapping - Customer Journey
 
@@ -89,11 +89,11 @@ The mapping below illustrates the customer journey from start to purchase.
 
 <img src="https://github.com/user-attachments/assets/59ab739b-26cb-4a9c-bba3-5a694ca3297c" width="30%" alt="image"/>
 
-From our analysis we found that customer drop offs for one time customers happens after the purchase. This is the page where customers key in payment details and hit confirm to save their details (refer below.)
+From our analysis we found that customer drop offs for one time customers happens after the purchase interaction. This is the page where customers key in payment details and hit confirm to save their details (refer below.)
 
 <img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/4dc125d0-fdbc-4878-bc3c-e81a7723e775" />
 
-Furthermore one time customers' biggest issue is billing and when compared to repeat customers they have proportionately more. This further solidifies the need to address the final payment section of the customer journey for one time customers.
+Furthermore one time customers' biggest issue is billing and when compared to repeat customers, they have proportionately more. This further solidifies the need to address the final payment section of the customer journey for one time customers.
 
 
 <img width="100%" alt="image" src="https://github.com/user-attachments/assets/f1aa4a83-3d48-4cbf-ade1-4cd927f7850a" />
@@ -115,17 +115,45 @@ The initial reminder can be a personalised email to remind the customer about th
 
 If the customer does not return, a second reminder should be sent after 24-48 hours and it could introduce a small incentive such as: Free shipping, Discount Code, Loyalty points etc. If there is still no purchase, the campaign should be exited and the data should be monitored through KPIs that will be introduced below.
 
-# Add in solution for billing
+### To complement the above solution, billing issues faced by one-time customers have to be addressed as well.
+
+The main issues that customers face are 'Billing address verification failed during checkout' and 'Customer couldn't apply discount code at checkout'.
+
+<img width="1184" height="228" alt="image" src="https://github.com/user-attachments/assets/9ec6057b-b9fc-47d5-9299-83b3c6f1a55a" />
+
+For the address verification, if it fails, some of the options are as follows:
+- Prompt the customer to correct their address
+- Provide suggested address options where possible
+- Allow the customer to retry without restarting checkout
+- To provide easy support escalation through live chatbots
+
+For the failed discount codes, some of the options are as follows:
+- Display proper error codes such as expired, minimum spend not met rather than "invalid code"
+- If there are eligible alternative promotions, to suggest them to the customer
+- If the fault is on the company such as the customer actually being eligible, to immediately flag the issue and assign high urgency
 
 ### For the third finding: One-time customers have much higher, high intent interactions (specifically checkouts) that increase with time after their first transaction.
 
 The recommended action is to run a personalised re-engagement campaign. This are customers who although only have one purchase, still show high-intent interactions. Instead of waiting for the customer to abandon checkout, the business should proactively engage them. 
 
-This campaign could work by observing the types of products that they are viewing after their first completed purchase. Personalised product recommendations can then be shown through pop-ups or sent via email. Additionally if items are added into the checkout and abandoned, this campaign will continue to the Checkout Abandonment Campaign.
+The campaign would monitor post-purchase interactions such as product views, search, wish list additions to identify the products or categories a customer is interested in. personalised product recommendations can then be presented through website pop-ups or sent through the customer's preferred communication channel, such as email. 
+
+If the customer subsequently adds a product to their cart or reaches checkout but does not complete their purchase, they would be transferred to the Checkout Abandonment campaign which focuses on recovering the abandoned purchased opportunity. This creates a continuous re-engagement process.
 
 ## KPIs to track to see if recommended actions prove successful. 
 
-This section outlines the KPIs to be tracked for each solution 
+This section outlines the KPIs to be tracked for each solution.
+
+### For the first solution for customers aged 20-49, 
+no_of_campaigns = sum of campaigns per customer segment <- should increase by at least 5 per customer segment (Adult, Loyal, High-value)
+cost_per_conversion = budget / conversions <- (<103 for Adults, <159 for Loyal <120 for High-value)
+conversion_per_1000 = conversions / budget <- (>26 for Adults, >13 for Loyal, >16 for High-value)
+roi <- (>944 for Adults, >387 for Loyal, >1704 for High-value)
+
+The numbers are taken from the recommendations for finding one.
+
+### For the second solution for one-time customers to complete their transactions,
+
 
 ## Conclusion
 
