@@ -1,7 +1,7 @@
 # Retail Data Case Study
 This is a full Data Analytics case study using a Retail Company's data where we go from cleaning the data, to finding insights and suggesting recommended actions to boost their revenue through targeted marketing campaigns towards their high value and one-time customers.
 
-For the full code, refer to retail-data-case-study saved.ipynb
+For the full code, refer to retail-data-case-study final.ipynb
 
 ## Business Task
 Analyse customer behaviours and purchasing patterns to find out what affects customer retention and find opportunities to increase repeat purchases. Recommend solutions to promote repeat purchasing and increase revenue from current customers.
@@ -56,6 +56,8 @@ This are days after their first transaction.
 
 The biggest difference is in checkout interactions where they had 1.5x more interactions.
 <img width="926" height="267" alt="image" src="https://github.com/user-attachments/assets/2549074b-5369-441f-ba12-9fe5b31f647e" />
+
+## Tableau Data Visualisation of Findings
 
 ## Recommended Actions
 ### For the first finding: Age groups 20-29,30-39,40-49 are most frequent and high value spenders. However they aren't being marketed to as aggressively. 
