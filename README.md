@@ -152,7 +152,18 @@ roi <- (>944 for Adults, >387 for Loyal, >1704 for High-value)
 
 The numbers are taken from the recommendations for finding one.
 
-### For the second solution for one-time customers to complete their transactions,
+### For the second solution for one-time customers to complete their transactions and billing issues,
+avg_diff_in_purch_and_trans = (no. of purchase interactions - no. of transactions)/(no. of one-time customers with more interactions than purchases) <- should be lesser than 2.0
+proportion_of_one-time_customers <- this should be lower than 457/5000  
+first_reminder_clicks = no. of campaign links clicked / no.of campaigns sent
+second_reminder_clicks = no. of campaign links clicked / no.of campaigns sent <- if this is higher, suggests that incentives motivate customers
+purchases_from_reminders = no. of purchases from reminders <- to track purchases made from campaign links
+
+proportion_of_billing_issues = no. of billing issues / total issues - should be lesser than 0.1028
+proportion_of_address_issues = no. of address issues / total billing issues <- should be lesser than 13/51
+proportion_of_discount_issues = no. of discount issues / total billing issues <- should be lesser than 11/51
+
+### For the third solution for one-time customers to follow through their high intent interactions,
 
 
 ## Conclusion
